@@ -1,10 +1,7 @@
-# Hr-attrition-analytics
 # 📊 HR Analytics: Employee Attrition & Retention Strategy
 
-![Power BI]
-![Python]
-![MySQL]
-![Status]
+<img width="1482" height="832" alt="image" src="https://github.com/user-attachments/assets/dd4428c6-13be-4498-97e1-e9e66311b3de" />
+<img width="1483" height="825" alt="image" src="https://github.com/user-attachments/assets/be0b04b8-5565-4328-aa6b-7577eddeb701" />
 
 ## 📌 Project Overview
 
@@ -12,7 +9,6 @@ This project analyzes employee attrition (turnover) using the **IBM HR Analytics
 
 The project follows a complete **End-to-End Data Analytics workflow**:
 - **Data Cleaning & Preparation** (Python/Pandas)
-- **Exploratory Data Analysis** (Python/Matplotlib/Seaborn)
 - **Advanced SQL Queries** (MySQL/PostgreSQL)
 - **Interactive Dashboard** (Power BI)
 
@@ -42,8 +38,7 @@ The project follows a complete **End-to-End Data Analytics workflow**:
 
 | Tool | Purpose |
 | :--- | :--- |
-| **Python (Pandas)** | Data cleaning, feature engineering, and EDA |
-| **Python (Matplotlib/Seaborn)** | Statistical visualizations |
+| **Python (Pandas)** | Data cleaning and feature engineering |
 | **SQL (MySQL/PostgreSQL)** | Data extraction, aggregation, and analytical queries |
 | **Power BI** | Interactive dashboard creation and storytelling |
 
@@ -169,7 +164,7 @@ Based on the analysis, here are the top recommendations:
 
 2. **Install Python dependencies**
    ```bash
-   pip install pandas matplotlib seaborn openpyxl
+   pip install pandas openpyxl
    ```
 
 3. **Run the cleaning script**
@@ -196,8 +191,7 @@ Hr-attrition-analytics/
 │   └── hr_data_cleaned.csv                     # Cleaned dataset
 │
 ├── scripts/
-│   ├── hr_data_cleaning.py                     # Python cleaning script
-│   └── hr_eda_visuals.py                       # EDA & chart generation
+│   └── hr_data_cleaning.py                     # Python cleaning script
 │
 ├── sql/
 │   └── hr_analytical_queries.sql               # All analytical queries
