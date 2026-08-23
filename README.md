@@ -1,8 +1,7 @@
 # 📊 HR Analytics: Employee Attrition & Retention Strategy
 
 <img width="1482" height="832" alt="image" src="https://github.com/user-attachments/assets/dd4428c6-13be-4498-97e1-e9e66311b3de" />
-
-<img width="1486" height="833" alt="image" src="https://github.com/user-attachments/assets/e506fa41-54f0-4a44-ae3c-a3e74d94a541" />
+<img width="1486" height="858" alt="image" src="https://github.com/user-attachments/assets/1399570e-250c-4b31-924b-1403aa6314f9" />
 
 ## 📌 Project Overview
 
